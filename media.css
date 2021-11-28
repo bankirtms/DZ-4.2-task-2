@@ -1,6 +1,8 @@
 @media all and (max-width:500px) 
 {
-    
+    body {
+        width: 550px !important;
+    }
     .logo-top {
         margin-left: 18px;
     }
